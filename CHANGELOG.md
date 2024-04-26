@@ -5,6 +5,7 @@
 **Added :**
 
 - .gitignore file
+- Zookeeper project template
 
 **Updated :**
 
