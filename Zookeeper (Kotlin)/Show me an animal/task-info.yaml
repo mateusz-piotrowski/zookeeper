@@ -8,11 +8,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/14134#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    You should output a camel!
-  time: "Fri, 26 Apr 2024 17:09:37 UTC"
+  message: Congratulations!
+  time: "Fri, 26 Apr 2024 20:20:43 UTC"
 record: 2
