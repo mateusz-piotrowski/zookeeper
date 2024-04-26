@@ -2,6 +2,10 @@
 
 ## [0.0.2] (April 26 2024)
 
+**Added :**
+
+- .gitignore file
+
 **Updated :**
 
 - README.md
