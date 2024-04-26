@@ -1,12 +1,12 @@
-# new-git-repo-template
+# Zookeeper
 
 ## Description
 
-The project contains basic files to the new git repository.
+The project contains Zookeeper project files from Kotlin course.
 
 ## Motivation
 
-The projects has been created to easier setup new git repository.
+The projects has been created to complete Zookeeper project.
 
 ## Installation
 
