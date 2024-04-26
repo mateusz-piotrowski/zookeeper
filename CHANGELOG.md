@@ -12,6 +12,7 @@
 **Updated :**
 
 - README.md
+- .gitignore file
 
 ## [0.0.1] (March 11 2022)
 
