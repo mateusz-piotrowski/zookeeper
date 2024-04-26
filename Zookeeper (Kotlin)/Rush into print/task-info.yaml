@@ -7,11 +7,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/14133#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    Your output should be like in the example!
-  time: "Fri, 26 Apr 2024 17:10:50 UTC"
+  message: Congratulations!
+  time: "Fri, 26 Apr 2024 20:13:29 UTC"
 record: 1

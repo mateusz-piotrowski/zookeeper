@@ -6,6 +6,7 @@
 
 - .gitignore file
 - Zookeeper project template
+- Task 1 completed
 
 **Updated :**
 
