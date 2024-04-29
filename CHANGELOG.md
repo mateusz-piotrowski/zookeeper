@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.4] (April 29 2024)
+
+**Added :**
+
+- Characters. Char type
+
 ## [0.0.3] (April 28 2024)
 
 **Added :**
