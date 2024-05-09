@@ -1,3 +1,6 @@
 content:
   - Reading data with readln
   - Characters. Char type
+  - Introduction to MutableList
+  - Ranges
+  - When expression

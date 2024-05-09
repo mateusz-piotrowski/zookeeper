@@ -1,5 +1,13 @@
 # The Changelog
 
+## [0.0.5] (May 09 2024)
+
+**Added :**
+
+- Introduction to MutableList
+- Ranges
+- When expression
+
 ## [0.0.4] (April 29 2024)
 
 **Added :**
