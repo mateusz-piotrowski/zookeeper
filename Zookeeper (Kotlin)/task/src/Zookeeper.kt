@@ -1,3 +1,5 @@
+import java.util.*
+
 const val camel = """Switching on the camera in the camel habitat...
  ___.-''''-.
 /___  @    |
@@ -116,5 +118,62 @@ It looks like we will soon have more rabbits!"""
 val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
 
 fun main() {
-    // write yor code here
+    val scanner = Scanner(System.`in`)
+
+    print("Please enter the number of the habitat you would like to view: >")
+//    val camera = scanner.nextLine()
+
+    while (scanner.hasNext()) {
+        val next = scanner.next()
+
+        if (next == "exit") {
+            println("See you later!")
+        } else {
+            println(animals[next.toInt()])
+        }
+
+//        if (next == "exit") {
+//            println("See you later!")
+//        }
+
+    }
+//    {
+//        println(animals[camera.toInt()]);
+//    }
+
+//    when (camera) {
+//        "0" -> {
+//            println("Switching on the camera in the camel habitat...")
+//            println(camel)
+//            println("See you later!")
+//        }
+//        "1" -> {
+//            println("Switching on the camera in the lion habitat...")
+//            println(lion)
+//            println("See you later!")
+//        }
+//        "2" -> {
+//            println("Switching on the camera in the deer habitat...")
+//            println(deer)
+//            println("See you later!")
+//        }
+//        "3" -> {
+//            println("Switching on the camera in the goose habitat...")
+//            println(goose)
+//            println("See you later!")
+//        }
+//        "4" -> {
+//            println("Switching on the camera in the bat habitat...")
+//            println(bat)
+//            println("See you later!")
+//        }
+//        "5" -> {
+//            println("Switching on the camera in the rabbit habitat...")
+//            println(rabbit)
+//            println("See you later!")
+//        }
+//        "exit" -> {
+//            println("See you later!")
+//        }
+//    }
 }

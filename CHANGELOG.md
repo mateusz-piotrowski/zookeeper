@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.6] (May 28 2024)
+
+**Added :**
+
+- Task 4 completed
+
 ## [0.0.5] (May 09 2024)
 
 **Added :**
